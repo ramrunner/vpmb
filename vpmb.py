@@ -1453,7 +1453,6 @@ class DiveState(object):
         `self.Minimum_Deco_Stop_Time`,
         `self.Nitrogen_Pressure`,
         `self.Nitrogen_Time_Constant`,
-        `self.Pressure_Other_Gases_mmHg`,
         `self.Regeneration_Time_Constant`,
         `self.Run_Time`,
         `self.Segment_Number`,
